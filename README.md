@@ -1,6 +1,6 @@
 # About Me :mexico: :fr:
 
-Both French and Mexican, I quickly understood that one word can have multiple meanings. Therefore, I decided to study abroad to broaden my mind. While being in Mexico I had the opportunity to work within the Tequila industry where I acknowledged the importance of data. Realizing that pushed me to pursue a Master's in Business Analytics for not only go out of my confort zone but also to learn to clean and analyze data in a more efficient way.
+Both French and Mexican, I quickly understood that one word can have multiple meanings. Therefore, I decided to study abroad to broaden my mind. While being in Mexico I had the opportunity to work within the Tequila industry where I acknowledged the importance of data. Realizing that pushed me to pursue a Master's in Business Analytics not only to go out of my confort zone but also to learn to clean and analyze data in a more efficient way.
 
 ## **Education:**
 
